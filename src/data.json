@@ -1,0 +1,98 @@
+[
+  {
+    "token": "user1prof",
+    "name": "wsr_user_1",
+    "surname": "qwe",
+    "patronymic": "qwe",
+    "email": "user1@mail.ru",
+    "password": "1",
+    "phone": "+7-(777)-777-77-77",
+    "valid_code": 0,
+    "balance": 100000,
+    "img": "",
+    "packages": [
+      {
+        "id": "R-1111-2222-3333-4444",
+        "state": {
+          "courier_request": true,
+          "package_ready_for_delivery": true,
+          "package_in_transit": false,
+          "package_delivered": false
+        },
+        "origin_details": {
+          "address": "tyta",
+          "state": "tkjsdghf",
+          "country": "ska",
+          "phone": "",
+          "others": ""
+        },
+        "delivery_details": [
+          {
+            "address": "tyta2",
+            "state": "asf",
+            "country": "l;j",
+            "phone": "",
+            "others": "....."
+          }
+        ],
+        "package_details": {
+          "items": "items",
+          "weight": 1000,
+          "price": 50000
+        },
+        "charges": {
+          "delivery": 2500,
+          "instant_delivery": 300,
+          "tax_and_service": 200
+        },
+        "score": 5,
+        "feedback": "",
+        "deliveryman": 1,
+        "list_mes": [
+          ""
+        ]
+      }
+    ],
+    "list_payment": [
+      {
+        "type": "pay",
+        "sum": "100",
+        "date": "10.20.2023",
+        "smt": ""
+      }
+    ]
+  },
+  {
+    "token": "user2prof",
+    "name": "user2",
+    "surname": "www",
+    "patronymic": "asd",
+    "phone": "777777",
+    "email": "user2@mail.ru",
+    "password": "111"
+  },
+  {
+    "token": "user3prof",
+    "name": "user3",
+    "surname": "www",
+    "patronymic": "asd",
+    "phone": "777777",
+    "email": "user3@mail.ru",
+    "password": "333",
+    "valid_code": 870908
+  },
+  {
+    "token": "user1prof",
+    "name": "wsruser4prof",
+    "surname": "qwe",
+    "patronymic": "qwe",
+    "email": "user4prof@mail.ru",
+    "password": "111",
+    "phone": "+7-(777)-777-77-77",
+    "valid_code": 0,
+    "balance": 0,
+    "img": "",
+    "list_payment": [],
+    "packages": []
+  }
+]
